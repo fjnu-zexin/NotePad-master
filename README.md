@@ -1,5 +1,6 @@
 
 # NotePad
+该项目功能介绍如下：
 # 基本功能一：增加时间戳
 #### 步骤1.增加TestView
 打开notelist_item.xml,增加一个TestView用来显示时间戳
