@@ -26,6 +26,8 @@
 在NoteList中的onCreateOptionsMenu方法中，使用setOnQueryTextListener监听OnQueryText事件，重写OnQueryTextListener接口的两个函数onQueryTextSubmit，onQueryTextChange
 ![img](https://github.com/fjnu-zexin/test1/blob/master/img/5.PNG)
 
+#### 步骤3：编写方法searchNote
+在方法managedQuery中的参数selection中，可用sql语言对数据库进行检索。创建新的adapter用来显示检索后的匹配内容
 ![img](https://github.com/fjnu-zexin/test1/blob/master/img/6.PNG)
 
 
