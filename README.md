@@ -47,8 +47,9 @@
 
 # 实现程序截图：
 
+![img](https://github.com/fjnu-zexin/test1/blob/master/img/9.PNG)
+
 ![img](https://github.com/fjnu-zexin/test1/blob/master/img/8.PNG)
 
-![img](https://github.com/fjnu-zexin/test1/blob/master/img/9.PNG)
 
 
