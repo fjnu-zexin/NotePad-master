@@ -7,7 +7,7 @@
 
 
 
-#### 2.步骤2：创建类MySimpleCursorAdapter
+#### 步骤2：创建类MySimpleCursorAdapter
 由于NotesList使用SimpleCursorAdapter来绑定显示数据。所以需要创建MySimpleCursorAdapter并继承SimpleCursorAdapter用来编写显示时间戳的代码
 ![img](https://github.com/fjnu-zexin/test1/blob/master/img/2.PNG) 
 
